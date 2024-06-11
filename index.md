@@ -13,4 +13,4 @@ Halo! Ini adalah situs web pribadi saya yang dihosting di Halaman GitHub.
 
 ## Kontak
 
-Anda dapat menghubungi saya di [Email](mailto:s21710491@student.unklab.ac.id).
+Anda dapat menghubungi saya di [s21710491@student.unklab.ac.id](mailto:s21710491@student.unklab.ac.id).
