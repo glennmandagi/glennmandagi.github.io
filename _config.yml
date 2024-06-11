@@ -1,0 +1,5 @@
+title: Halaman GitHub Saya
+description: Situs web pribadi saya dihosting di Halaman GitHub.
+baseurl: ""
+url: "https://glennmandagi.github.io"
+theme: minima
