@@ -15,8 +15,8 @@ Anda dapat mengirim email di [s21710491@student.unklab.ac.id](mailto:myemail@s21
 
 Jangan ragu untuk terhubung dengan saya di media sosial:
 
-- [GitHub](https://github.com/username)
+- [GitHub](https://github.com/glennmandagi)
 
 ## Lainnya
 
-Untuk detail lebih lanjut tentang pekerjaan dan proyek saya, kunjungi [Profil GitHub](https://github.com/glennmandagi) saya.
+Untuk detail lebih lanjut tentang pekerjaan dan proyek saya, kunjungi [GitHub](https://github.com/glennmandagi) saya.
