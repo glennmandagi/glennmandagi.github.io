@@ -3,7 +3,7 @@ layout: default
 title: Kontak
 ---
 
-# Contact
+# Kontak
 
 Saya ingin mendengar pendapat anda! Berikut cara anda dapat menghubungi saya:
 
