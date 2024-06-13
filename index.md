@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Halaman Depan
 ---
 
 # Selamat datang di Halaman GitHub Saya
